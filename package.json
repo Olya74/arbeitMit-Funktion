@@ -1,0 +1,12 @@
+{
+  "name": "arbeitmit-funktion",
+  "version": "1.0.0",
+  "description": "Function challenge 3 Task 1 - is number in range? Create a function called isNumberInRange with 3 numerical parameters:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
